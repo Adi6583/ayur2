@@ -1,2 +1,1 @@
-# ayur2
-
+# Ayurveda 2
