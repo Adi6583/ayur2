@@ -1,1 +1,1 @@
-# Ayurveda 2
+# Classical Ayurveda Preparations
