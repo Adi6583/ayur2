@@ -1,2 +1,3 @@
 # Classical Ayurveda Preparations
-Classical-Ayurvedic-Preparations
+
+#classical ayurveda preparations
